@@ -1,4 +1,6 @@
 name: Flat
+permissions:
+  contents: write
 on:
   push:
     branches:
